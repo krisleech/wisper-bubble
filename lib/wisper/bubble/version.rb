@@ -1,0 +1,5 @@
+module Wisper
+  module Bubble
+    VERSION = "0.1.0"
+  end
+end
